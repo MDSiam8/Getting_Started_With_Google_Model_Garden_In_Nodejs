@@ -1,9 +1,1 @@
-{
-  "predictions": [
-    {
-      "content": "The fetch API became natively supported in Node.JS in version 10.0.0, which was released on April 18, 2018.",
-      "citationMetadata": { "citations": [] },
-      "safetyAttributes": { "scores": [], "blocked": false, "categories": [] }
-    }
-  ]
-}
+{"predictions":[{"citationMetadata":{"citations":[]},"content":"* **The Art of the Common Good: A Course in Civic Leadership** This course will explore the principles of civic leadership and how to apply them in your own life and work. You'll learn about the importance of collaboration, consensus-building, and public service, and you'll have the opportunity to put your skills to the test in a simulated civic engagement project.\n* **The Power of Social Entrepreneurship** This course will introduce you to the field of social entrepreneurship and explore the ways that entrepreneurs can use their business skills to create positive social change. You'll learn about the different types of social enterprises, the challenges and opportunities they face, and the impact they can have on the world.\n* **The Future of Work** This course will explore the future of work and how technology is changing the way we work. You'll learn about the skills that will be in demand in the future, the challenges that workers are facing, and the ways that we can prepare for the future of work.\n* **The Art of Living Well** This course will explore the different ways that we can live a good life. You'll learn about the importance of happiness, meaning, and purpose, and you'll have the opportunity to explore your own values","safetyAttributes":{"scores":[0.9,0.1,0.2,0.1],"categories":["Finance","Health","Legal","Religion & Belief"],"blocked":false}}],"metadata":{"tokenMetadata":{"outputTokenCount":{"totalBillableCharacters":1038,"totalTokens":256},"inputTokenCount":{"totalTokens":17,"totalBillableCharacters":61}}}}

@@ -1,9 +1,9 @@
 const { sendRequest, writeResponseLocally } = require("../utils/google-foundation-models");
 const params = {
-  apiEndpoint: "YOUR_API_ENDPOINT",
-  projectId: "YOUR_PROJECT_ID",
+  apiEndpoint: "us-central1-aiplatform.googleapis.com",
+  projectId: "hophacks23-399208",
   modelId: "text-bison@001",
-  instances: [{ content: "When did the fetch API become natively supported in Node.JS?" }],
+  instances: [{ content: "Recommend me some courses if I'm interested in the art of the common good." }],
   parameters: { temperature: 0.2, maxOutputTokens: 256, topP: 0.8, topK: 40 },
 };
 sendRequest(params)
